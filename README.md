@@ -4,6 +4,15 @@
 
 ---
 
+<a href="https://curriculo-ten-hazel.vercel.app/" target="_blank">
+  <img src="./previa-portfolio.png" alt="Prévia do meu Portfólio" width="800" style="border-radius: 10px; border: 1px solid #e2e8f0;">
+</a>
+<br>
+*(Clique na imagem para acessar o meu Portfólio completo)*
+
+<br>
+<br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguelsenai2024&show_icons=true&hide_border=false&count_private=true&theme=radical&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelsenai2024&layout=compact&hide_border=false&theme=radical&card_width=470&include_all_commits=true)
 
