@@ -11,10 +11,6 @@
 *(Clique na imagem para acessar o meu Portfólio completo)*
 
 <br>
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguelsenai2024&show_icons=true&hide_border=false&count_private=true&theme=radical&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelsenai2024&layout=compact&hide_border=false&theme=radical&card_width=470&include_all_commits=true)
 
 <br>
 
