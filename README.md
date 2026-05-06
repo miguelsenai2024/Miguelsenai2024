@@ -4,7 +4,7 @@
 
 ---
 
-<a href="[https://curriculo-ten-hazel.vercel.app/](https://curriculo-ten-hazel.vercel.app/)" target="_blank">
+<a href="https://curriculo-ten-hazel.vercel.app/" target="_blank">
   <img src="./previa-portfolio.png" alt="Prévia do meu Portfólio" width="800" style="border-radius: 10px; border: 1px solid #e2e8f0;">
 </a>
 <br>
