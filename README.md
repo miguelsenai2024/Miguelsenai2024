@@ -43,15 +43,6 @@
 
 <br />
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miguelsenai2024&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miguelsenai2024&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br />
-
 ## 📬 Vamos nos Conectar!
 
 <div align="center">
