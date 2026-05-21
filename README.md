@@ -39,8 +39,8 @@
 - **[PersonalHub](https://github.com/Miguelsenai2024/PersonalHub-Public)**: Seu ecossistema pessoal para Finanças, Estudos, Tarefas e IA.
 - **[GSPlan](https://github.com/Miguelsenai2024/GSPlan-Public)**: Plataforma de Gestão Patrimonial (*Wealth Management*) para assessores de elite.
 - **E-Motors**: Plataforma de e-commerce automotivo com design de alta performance.
-- **ReAlimenta**: App focado no combate ao desperdício alimentar, conectando doadores a ONGs.
-- **ScopeMaster**: Sistema de gerenciamento de requisitos para análise e acompanhamento de propostas.
+- **[ReAlimenta](https://github.com/Miguelsenai2024/ReAlimenta-Public)**: App focado no combate ao desperdício alimentar, conectando doadores a ONGs.
+- **[ScopeMaster](https://github.com/Miguelsenai2024/ScopeMaster-Public)**: Sistema de gerenciamento de requisitos para análise e acompanhamento de propostas.
 
 <br />
 
