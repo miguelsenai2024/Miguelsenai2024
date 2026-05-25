@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! Eu sou o Miguel Oliveira! 👋</h1>
+  <h1>Miguel Oliveira</h1>
   <h3>Desenvolvedor Full Stack | Python • JavaScript • SQL • C# • HTML • CSS</h3>
   <p>Apaixonado por criar aplicações escaláveis, soluções web inovadoras e resolver problemas do mundo real.</p>
 </div>
