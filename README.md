@@ -7,7 +7,7 @@
 <br />
 
 <div align="center">
-  <a href="https://Miguelsenai2024.github.io/portfolio-miguel/" target="_blank">
+  <a href="https://curriculo-ten-hazel.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Acesse%20Meu%20Portfólio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://curriculo-ten-hazel.vercel.app/" target="_blank">
