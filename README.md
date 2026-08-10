@@ -38,7 +38,7 @@
 
 - **[PersonalHub](https://www.personalhub.sbs/)**: Seu ecossistema pessoal para Finanças, Estudos, Tarefas e IA.
 - **[GSPlan](https://www.gsplan.company/)**: Plataforma de Gestão Patrimonial (*Wealth Management*) para assessores de elite.
-- **[Vyzor](https://github.com/miguelsenai2024/Vyzor): Gerenciamento automatico de dados de empresas.
+- **[Vyzor](https://github.com/miguelsenai2024/Vyzor)**: Gerenciamento automatico de dados de empresas.
 - **[ReAlimenta](https://github.com/Miguelsenai2024/ReAlimenta-Public)**: App focado no combate ao desperdício alimentar, conectando doadores a ONGs.
 - **[ScopeMaster](https://scope-master-alpha.vercel.app/)**: Sistema de gerenciamento de requisitos para análise e acompanhamento de propostas.
 - **[Telegram Mini App — Vendas com IA](https://github.com/miguelsenai2024/telegram-miniapp-vendas-ia)**: Assistente de vendas por IA dentro do Telegram (n8n + Supabase + Gemini/Groq), com validação de identidade, botões inteligentes e captura de leads. [💬 Testar](https://t.me/theworkshop2026_bot)
