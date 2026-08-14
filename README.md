@@ -1,151 +1,148 @@
 <div align="center">
-
 <img src="./assets/banner.svg" width="100%" alt="Miguel Oliveira — Full Stack Developer" />
-
-<br/>
-
-<a href="https://curriculo-ten-hazel.vercel.app/">
-  <img src="https://img.shields.io/badge/WELCOME_TO_MY_CODE_BASE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-</a>
-
 <br/><br/>
-
-<a href="https://curriculo-ten-hazel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/miguel-o-07203b3b1"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="mailto:oliveiramiguel1003@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://www.instagram.com/miguel_oliveira_dev"><img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
-
+<a href="https://curriculo-ten-hazel.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7" /></a>
+<a href="https://www.linkedin.com/in/miguel-o-07203b3b1"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" /></a>
+<a href="mailto:oliveiramiguel1003@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=I+build+systems+that+turn+ideas+into+products.;Backend+%E2%86%92+Automation+%E2%86%92+AI+%E2%86%92+Impact.;Always+learning.+Always+shipping." />
 </div>
 
-<br/>
+## `$ whoami`
 
-## `MIGUEL.O.CODE`
-
-```js
+```ts
 const miguel = {
   role: "Full Stack Developer",
-  location: "Taubaté, SP — Brasil",
   education: "Análise e Desenvolvimento de Sistemas",
-  focus: ["Backend", "Web", "Artificial Intelligence", "Automation"],
-  languages: ["Python", "JavaScript", "C#", "SQL", "HTML", "CSS"],
-  currentGoal: "Transformar ideias em produtos úteis e escaláveis"
+  base: "Taubaté · São Paulo · Brazil",
+
+  engineering: ["Backend", "Web", "APIs", "Data"],
+  exploring: ["Artificial Intelligence", "Automation", "Cloud"],
+  principle: "technology is useful when it solves a real problem",
+
+  currentlyBuilding: ["PersonalHub", "GSPlan", "Vyzor"],
+  next: "deeper backend, system design and intelligent products"
 };
 ```
 
-Sou desenvolvedor Full Stack em formação, com foco em construir produtos digitais completos, automações e soluções com IA. Gosto de unir **código, produto e resolução de problemas reais** — da arquitetura do backend à experiência final do usuário.
+Eu gosto da parte da tecnologia em que uma ideia deixa de ser conceito e **vira algo que funciona**. Meu foco está em construir aplicações completas, integrar serviços, automatizar processos e usar IA como ferramenta prática — não como enfeite.
 
-<br/>
+---
 
-## `ABOUT ME`
-
-```yaml
-name: Miguel Oliveira
-role: Full Stack Developer
-studying: Análise e Desenvolvimento de Sistemas
-based_in: Taubaté, São Paulo, Brasil
-interests:
-  - Backend Development
-  - Artificial Intelligence
-  - Automation
-  - Product Development
-  - Data & Integrations
-currently_building:
-  - PersonalHub
-  - GSPlan
-  - Vyzor
-status: Always learning. Always building.
-```
-
-<br/>
-
-## `TECH STACK`
+## `01 / engineering toolkit`
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,cs,html,css,mysql,supabase,git,github,vscode,vercel" alt="Tech Stack" />
-
+<img src="https://skillicons.dev/icons?i=python,js,cs,html,css,mysql,supabase,git,github,vscode,vercel&perline=11" />
 <br/><br/>
-
+<img src="https://img.shields.io/badge/API_Design-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-161B22?style=flat-square" />
 <img src="https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=EA4B71" />
 <img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
-<img src="https://img.shields.io/badge/Groq-161B22?style=flat-square&logoColor=F55036" />
-<img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=fastapi&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Groq-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud-161B22?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
 </div>
 
+---
+
+## `02 / things I've built`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>◢ PersonalHub</h3>
+<b>Your life, one system.</b><br/><br/>
+Um ecossistema pessoal que reúne finanças, estudos, tarefas e IA. Representa minha visão de produto: reduzir fragmentação e transformar várias ferramentas em uma experiência única.<br/><br/>
+<code>Product</code> <code>Web</code> <code>AI</code> <code>Automation</code><br/><br/>
+<a href="https://www.personalhub.sbs/"><img src="https://img.shields.io/badge/OPEN_PRODUCT-7C3AED?style=flat-square&logo=vercel&logoColor=white" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>◢ GSPlan</h3>
+<b>Technology for wealth management.</b><br/><br/>
+Plataforma voltada à gestão patrimonial, combinando organização, dados e uma experiência construída para transformar informações financeiras em acompanhamento útil.<br/><br/>
+<code>Fintech</code> <code>Data</code> <code>Management</code> <code>Web</code><br/><br/>
+<a href="https://www.gsplan.company/"><img src="https://img.shields.io/badge/OPEN_PLATFORM-7C3AED?style=flat-square&logo=vercel&logoColor=white" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>◢ Vyzor</h3>
+<b>Information without the friction.</b><br/><br/>
+Projeto de automação e centralização de dados empresariais, explorando IA para acelerar o acesso à informação e reduzir trabalho manual.<br/><br/>
+<code>Python</code> <code>AI</code> <code>Data</code> <code>Automation</code><br/><br/>
+<a href="https://github.com/miguelsenai2024/Vyzor"><img src="https://img.shields.io/badge/VIEW_SOURCE-21262D?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>◢ AI Sales Mini App</h3>
+<b>Automation inside the conversation.</b><br/><br/>
+Mini App para Telegram com n8n, Supabase e Gemini/Groq: validação, captura de leads e fluxos inteligentes de venda integrados ao bot.<br/><br/>
+<code>n8n</code> <code>Supabase</code> <code>Gemini</code> <code>Groq</code><br/><br/>
+<a href="https://github.com/miguelsenai2024/telegram-miniapp-vendas-ia"><img src="https://img.shields.io/badge/SOURCE-21262D?style=flat-square&logo=github&logoColor=white" /></a> <a href="https://t.me/theworkshop2026_bot"><img src="https://img.shields.io/badge/TRY_IT-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>↳ more projects</b></summary>
 <br/>
 
-## `FEATURED PROJECTS`
+**ScopeMaster** — gerenciamento de requisitos, propostas e escopo. [Abrir ↗](https://scope-master-alpha.vercel.app/)
 
-| Project | Description | Access |
-|---|---|---|
-| **PersonalHub** | Ecossistema pessoal para finanças, estudos, tarefas e IA. | [Live ↗](https://www.personalhub.sbs/) |
-| **GSPlan** | Plataforma de Wealth Management para gestão e acompanhamento patrimonial. | [Live ↗](https://www.gsplan.company/) |
-| **Vyzor** | Centralização e gerenciamento automatizado de dados empresariais. | [GitHub ↗](https://github.com/miguelsenai2024/Vyzor) |
-| **ScopeMaster** | Gestão de requisitos, escopos e propostas. | [Live ↗](https://scope-master-alpha.vercel.app/) |
-| **ReAlimenta** | Aplicação focada no combate ao desperdício alimentar. | [GitHub ↗](https://github.com/Miguelsenai2024/ReAlimenta-Public) |
-| **Telegram Mini App — Vendas com IA** | Assistente de vendas com n8n, Supabase, Gemini/Groq e captura de leads. | [Code ↗](https://github.com/miguelsenai2024/telegram-miniapp-vendas-ia) · [Bot ↗](https://t.me/theworkshop2026_bot) |
+**ReAlimenta** — tecnologia aplicada ao combate ao desperdício alimentar. [Código ↗](https://github.com/Miguelsenai2024/ReAlimenta-Public)
+</details>
 
-<br/>
+---
 
-## `CURRENT MISSION`
+## `03 / beyond the code`
 
-```text
-Backend Engineering        ████████████████░░░░  80%
-Full Stack Development     ███████████████░░░░░  75%
-Automation                 ████████████████░░░░  80%
-Artificial Intelligence    ██████████████░░░░░░  70%
-System Design              ████████████░░░░░░░░  60%
-```
+<table>
+<tr>
+<td width="33%" align="center"><b>AI</b><br/><sub>IA aplicada a problemas reais e automações</sub></td>
+<td width="33%" align="center"><b>Cloud</b><br/><sub>AWS Cloud Foundations e infraestrutura</sub></td>
+<td width="33%" align="center"><b>Data</b><br/><sub>Análise, SQL e sistemas orientados a dados</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center"><b>Linux</b><br/><sub>Ambiente de desenvolvimento e fundamentos</sub></td>
+<td width="33%" align="center"><b>Product</b><br/><sub>Construção pensando além do código</sub></td>
+<td width="33%" align="center"><b>Learning</b><br/><sub>Experimentar → construir → entender</sub></td>
+</tr>
+</table>
 
-> Objetivo atual: aprofundar backend, arquitetura de sistemas, automações e aplicações práticas de IA enquanto continuo construindo projetos reais.
+---
 
-<br/>
-
-## `GITHUB ACTIVITY`
+## `04 / github signal`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=miguelsenai2024&show_icons=true&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=A855F7&text_color=8B949E&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsenai2024&layout=compact&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=8B949E&langs_count=8" alt="Top Languages" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=miguelsenai2024&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=C9D1D9&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsenai2024&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" />
 <br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=miguelsenai2024&bg_color=00000000&color=8B949E&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" alt="Contribution Graph" />
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=miguelsenai2024&bg_color=0D1117&color=8B949E&line=A855F7&point=D8B4FE&area=true&hide_border=true" />
 </div>
 
 <details>
-<summary><b>More GitHub stats</b></summary>
+<summary><b>↳ contribution lab</b></summary>
 <br/>
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=miguelsenai2024&hide_border=true&background=00000000&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=8B949E&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com?user=miguelsenai2024&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=8B949E&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/miguelsenai2024/Miguelsenai2024/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
+<img src="https://raw.githubusercontent.com/miguelsenai2024/Miguelsenai2024/output/github-contribution-grid-snake-dark.svg" />
 </div>
 </details>
 
-<br/>
+---
 
-## `LET'S CONNECT`
+## `05 / let's build something`
 
 <div align="center">
-
-<a href="mailto:oliveiramiguel1003@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/miguel-o-07203b3b1"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/miguel_oliveira_dev"><img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://wa.me/5512988327726"><img src="https://img.shields.io/badge/WhatsApp-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
+<b>Produtos. Backend. IA. Automações. Ideias que precisam virar software.</b>
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=miguelsenai2024&label=Profile+views&color=7C3AED&style=flat-square" alt="Profile views" />
-
+<a href="mailto:oliveiramiguel1003@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/miguel-o-07203b3b1"><img src="https://img.shields.io/badge/CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://curriculo-ten-hazel.vercel.app/"><img src="https://img.shields.io/badge/SEE_MY_WORK-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <br/><br/>
-
-<sub>Code • Build • Learn • Improve</sub>
-
+<a href="https://www.instagram.com/miguel_oliveira_dev">Instagram</a> · <a href="https://wa.me/5512988327726">WhatsApp</a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=miguelsenai2024&label=visitors&color=7C3AED&style=flat-square" />
+<br/><br/>
+<sub>Not a collection of technologies. A record of things I'm learning to build.</sub>
 </div>
