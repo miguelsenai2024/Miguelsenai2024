@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=Transformo+ideias+em+produtos+funcionais.;Backend+%E2%86%92+Automa%C3%A7%C3%A3o+%E2%86%92+IA+%E2%86%92+Impacto.;Sempre+aprendendo.+Sempre+construindo." />
 </div>
 
-## `$ quem_sou_eu`
+## `quem_sou_eu`
 
 ```ts
 const miguel = {
